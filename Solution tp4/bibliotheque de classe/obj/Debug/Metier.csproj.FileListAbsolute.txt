@@ -1,0 +1,6 @@
+C:\Users\boufedenmortadha\source\repos\Solution tp4\bibliotheque de classe\bin\Debug\bibliotheque de classe.dll
+C:\Users\boufedenmortadha\source\repos\Solution tp4\bibliotheque de classe\bin\Debug\bibliotheque de classe.pdb
+C:\Users\boufedenmortadha\source\repos\Solution tp4\bibliotheque de classe\obj\Debug\Metier.csproj.AssemblyReference.cache
+C:\Users\boufedenmortadha\source\repos\Solution tp4\bibliotheque de classe\obj\Debug\Metier.csproj.CoreCompileInputs.cache
+C:\Users\boufedenmortadha\source\repos\Solution tp4\bibliotheque de classe\obj\Debug\bibliotheque de classe.dll
+C:\Users\boufedenmortadha\source\repos\Solution tp4\bibliotheque de classe\obj\Debug\bibliotheque de classe.pdb
